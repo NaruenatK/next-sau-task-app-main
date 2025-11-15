@@ -13,8 +13,8 @@ export const metadata: Metadata = {
   title: "My Task App",
   description: "A simple task management app",
   keywords: ["task", "management", "app", "nextjs", "typescript", "supabase"],
-  authors: [{ name: "Chetsada", url: "https://chetsada.dev" }],
-  creator: "Chetsada",
+  authors: [{ name: "Hexx", url: "https://Hexx.dev" }],
+  creator: "Hexx",
 };
 
 export default function RootLayout({
